@@ -5,7 +5,6 @@
 - 🌱 Estou cursando Analise de Sistema e Realizando um Curso Full Stack na DH
 - 👯 Procuro aprender nas horas vagas(Utimamente, tempo fora do trabalho)
 
--->
 <div align="center">
   <a href="https://github.com/pouljp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pouljp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
